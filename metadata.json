@@ -1,0 +1,6 @@
+{
+  "name": "Code Editor",
+  "description": "একটি শক্তিশালী মোবাইল কোড এডিটর যাতে রয়েছে সিনট্যাক্স হাইলাইটিং, অটো-কমপ্লিশন, অফলাইন এডিটিং, গিট সিমুলেটর, জিপ এক্সপোর্ট এবং গিটহাব অ্যাকশন স্ট্যাটাস ট্র্যাকার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
