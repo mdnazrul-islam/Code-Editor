@@ -27,7 +27,7 @@ jobs:
         echo "=== Installed Gradle version on Runner ==="
         gradle -v
         echo "=== Generating Wrapper Assets ==="
-        gradle wrapper --gradle-version 8.4
+        gradle wrapper --gradle-version 9.3.1
         chmod +x gradlew
         echo "=== Generation Completed! ==="
         ls -la gradlew gradlew.bat
